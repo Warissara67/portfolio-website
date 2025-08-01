@@ -39,6 +39,6 @@ touch css/style.css js/script.js
 git add .
 git commit -m "Initial portfolio website structure"
 git branch -M main
-git remote add origin https://github.com/username/portfolio-website.git
+git remote add origin https://github.com/Warissara67/portfolio-website.git
 git push -u origin main
 ```
